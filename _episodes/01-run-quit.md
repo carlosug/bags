@@ -23,10 +23,6 @@ keypoints:
 
 ## Getting Started with JupyterLab
 
-While many software developers will often use an integrated development environment (IDE) or a 
-text editor to create and edit their Python programs we will be using [JupyterLab][jupyterlab] 
-during this lesson. 
-
 JupyterLab is an application with a web-based user interface from [Project Jupyter][jupyter] that 
 enables one to work with documents and activities such as Jupyter notebooks, text editors, terminals,
 and even custom components in a flexible, integrated, and extensible manner. JupyterLab requires a
@@ -44,6 +40,10 @@ does not require an internet connection.
 *   The JupyterLab server does the work and the web browser renders the result.
 *   You will type code into the browser and see the result when the web page talks to the 
     JupyterLab server.
+
+## Why I need to learn how to code?
+
+Video or article about how to code!
 
 > ## JupyterLab? What about Jupyter notebooks?
 > 
