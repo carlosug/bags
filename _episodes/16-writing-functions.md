@@ -14,6 +14,10 @@ keypoints:
 - "Arguments in call are matched to parameters in definition."
 - "Functions may return a result to their caller using `return`."
 ---
+
+## Essential readings and videos before the tutorial
+![](https://www.youtube.com/watch?v=J8W_2qgq7O4)
+
 ## Break programs down into functions to make them easier to understand.
 
 *   Human beings can only keep a few items in working memory at a time.
