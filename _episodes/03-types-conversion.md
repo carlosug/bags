@@ -85,12 +85,12 @@ TypeError: unsupported operand type(s) for -: 'str' and 'str'
 *   "Adding" character strings concatenates them.
 
 ~~~
-full_name = 'Ahmed' + ' ' + 'Walsh'
+full_name = 'Carlos' + ' ' + 'Utrilla'
 print(full_name)
 ~~~
 {: .language-python}
 ~~~
-Ahmed Walsh
+Carlos Utrilla
 ~~~
 {: .output}
 
