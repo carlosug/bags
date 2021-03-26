@@ -16,7 +16,7 @@ keypoints:
 ---
 
 ## Essential readings and videos before the tutorial
-![](https://www.youtube.com/watch?v=J8W_2qgq7O4)
+[![Everything Is AWESOME](../img/functions.png)]https://www.youtube.com/watch?v=J8W_2qgq7O4 "Functions are AWESOME")
 
 ## Break programs down into functions to make them easier to understand.
 
